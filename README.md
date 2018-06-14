@@ -1,2 +1,0 @@
-# GiphySearchReact
-Created with CodeSandbox
